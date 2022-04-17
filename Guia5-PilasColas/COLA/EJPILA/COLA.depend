@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1617831648 source:c:\users\bauti\onedrive\escritorio\curso c2\cola\ejpila\implementacioncola.c
+	"InterfaceCola.h"
+
+1617831439 c:\users\bauti\onedrive\escritorio\curso c2\cola\ejpila\interfacecola.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1617835290 source:c:\users\bauti\onedrive\escritorio\curso c2\cola\ejpila\main.c
+	"InterfaceCola.h"
+

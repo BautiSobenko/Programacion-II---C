@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1618442348 source:c:\users\bauti\onedrive\escritorio\curso c2\ej6tp5\implementacionpila.c
+	"InterfacePila.h"
+
+1617810036 c:\users\bauti\onedrive\escritorio\curso c2\ej6tp5\interfacepila.h
+	<stdio.h>
+	<stdlib.h>
+
+1617819087 source:c:\users\bauti\onedrive\escritorio\curso c2\ej6tp5\main.c
+	"InterfacePila.h"
+

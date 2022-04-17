@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1618420595 source:c:\users\bauti\onedrive\escritorio\curso c2\guia 5\ejercicio2\main.c
+	"InterfazPila.h"
+
+1618420037 c:\users\bauti\onedrive\escritorio\curso c2\guia 5\ejercicio2\interfazpila.h
+	<stdio.h>
+	<stdlib.h>
+
+1618420621 source:c:\users\bauti\onedrive\escritorio\curso c2\guia 5\ejercicio2\imppilaestatica.c
+	"InterfazPila.h"
+

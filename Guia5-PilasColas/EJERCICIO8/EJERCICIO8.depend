@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1618453331 source:c:\users\bauti\onedrive\escritorio\curso c2\guia 5\ejercicio8\imppila.c
+	"IntPila.h"
+
+1618455651 c:\users\bauti\onedrive\escritorio\curso c2\guia 5\ejercicio8\intpila.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1618491236 source:c:\users\bauti\onedrive\escritorio\curso c2\guia 5\ejercicio8\main.c
+	"IntPila.h"
+
+1618488981 source:c:\users\bauti\onedrive\escritorio\curso c2\guia 5\ejercicio8\imppila2.c
+	"IntPila.h"
+

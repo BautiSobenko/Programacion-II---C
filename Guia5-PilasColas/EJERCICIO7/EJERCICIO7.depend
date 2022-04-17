@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1618445204 source:c:\users\bauti\onedrive\escritorio\curso c2\guia 5\ejercicio7\main.c
+	"IntPilaD.h"
+
+1618444198 c:\users\bauti\onedrive\escritorio\curso c2\guia 5\ejercicio7\intpilad.h
+	<stdio.h>
+	<stdlib.h>
+
+1618445093 source:c:\users\bauti\onedrive\escritorio\curso c2\guia 5\ejercicio7\imppilad.c
+	"IntPilaD.h"
+

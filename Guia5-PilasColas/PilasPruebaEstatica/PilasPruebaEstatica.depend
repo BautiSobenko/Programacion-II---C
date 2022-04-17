@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1617137684 source:c:\users\bauti\onedrive\escritorio\curso c2\pilaspruebaestatica\implistaest.c
+	"ProtListaEst.h"
+
+1617137378 c:\users\bauti\onedrive\escritorio\curso c2\pilaspruebaestatica\protlistaest.h
+
+1617137802 source:c:\users\bauti\onedrive\escritorio\curso c2\pilaspruebaestatica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ProtListaEst.h"
+

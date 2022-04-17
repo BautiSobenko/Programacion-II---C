@@ -1,0 +1,17 @@
+
+
+Nombre: Bautista
+Apellido: Priano
+Carrera: SSE
+
+Nombre: Santino
+Apellido: Artesi
+Carrera: CE
+
+Nombre: Juan
+Apellido: Rivera
+Carrera: Medicina
+
+Nombre: Franco
+Apellido: Garcia
+Carrera: Medicina

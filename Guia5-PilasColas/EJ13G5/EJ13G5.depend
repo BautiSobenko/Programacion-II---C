@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1617837584 source:c:\users\bauti\onedrive\escritorio\curso c2\ej13g5\impcola.c
+	"IntCola.h"
+
+1617836859 c:\users\bauti\onedrive\escritorio\curso c2\ej13g5\intcola.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1617837428 source:c:\users\bauti\onedrive\escritorio\curso c2\ej13g5\imppila.c
+	"IntPila.h"
+
+1617837419 c:\users\bauti\onedrive\escritorio\curso c2\ej13g5\intpila.h
+	<stdio.h>
+	<stdlib.h>
+
+1617838853 source:c:\users\bauti\onedrive\escritorio\curso c2\ej13g5\main.c
+	"IntCola.h"
+	"IntPila.h"
+

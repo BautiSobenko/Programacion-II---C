@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1621610207 source:c:\users\bauti\onedrive\escritorio\curso c2\guia7 - arboles\ejercicio28\tdaanario.c
+	"TDAAnario.h"
+	<stdio.h>
+	<stdlib.h>
+
+1621610243 c:\users\bauti\onedrive\escritorio\curso c2\guia7 - arboles\ejercicio28\tdaanario.h
+
+1622494069 source:c:\users\bauti\onedrive\escritorio\curso c2\guia7 - arboles\ejercicio28\main.c
+	<stdio.h>
+	"TDAANario.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1617804455 source:c:\users\bauti\onedrive\escritorio\curso c2\ej3atp5\main.c
+	"Interface.h"
+
+1617804320 c:\users\bauti\onedrive\escritorio\curso c2\ej3atp5\interface.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1617804293 source:c:\users\bauti\onedrive\escritorio\curso c2\ej3atp5\implementacion.c
+	"Interface.h"
+
